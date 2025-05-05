@@ -1,50 +1,50 @@
 # ❌ Tic-Tac-Toe Game
 
-Prosta implementacja gry w kółko i krzyżyk (Tic-Tac-Toe) stworzona przy użyciu HTML, CSS i JavaScript. Gra umożliwia rywalizację dwóch graczy na jednym urządzeniu.
+A simple implementation of the Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The game allows two players to compete on a single device.
 
-## 🎮 Funkcje
+## 🎮 Features
 
-- Interfejs użytkownika oparty na HTML i CSS
-- Logika gry zaimplementowana w JavaScript
-- Obsługa dwóch graczy
-- Wykrywanie zwycięzcy lub remisu
-- Możliwość resetowania gry
+- User interface based on HTML and CSS  
+- Game logic implemented in JavaScript  
+- Two-player support  
+- Detection of a winner or a tie  
+- Ability to reset the game  
 
-## 🚀 Rozpoczęcie
+## 🚀 Getting Started
 
-Aby uruchomić grę lokalnie:
+To run the game locally:
 
-1. Sklonuj repozytorium:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/konradxmalinowski/Tic-Tac-Toe-game.git
    cd Tic-Tac-Toe-game
    ```
 
-2. Otwórz plik `index.html` w swojej przeglądarce internetowej.
+2. Open the `index.html` file in your web browser.
 
-## 📁 Struktura projektu
+## 📁 Project Structure
 
 ```
 Tic-Tac-Toe-game/
-├── public/             # Statyczne zasoby
-├── src/                # Główne źródła aplikacji
-│   └── ...             # Skrypty i style
-├── index.html          # Główny plik HTML
-├── package.json        # Zależności i skrypty
-├── vite.config.js      # Konfiguracja Vite
-└── README.md           # Dokumentacja projektu
+├── public/             # Static assets
+├── src/                # Main application sources
+│   └── ...             # Scripts and styles
+├── index.html          # Main HTML file
+├── package.json        # Dependencies and scripts
+├── vite.config.js      # Vite configuration
+└── README.md           # Project documentation
 ```
 
-## ✅ Status projektu
+## ✅ Project Status
 
-Projekt jest w fazie eksperymentalnej. Podstawowe funkcjonalności gry są zaimplementowane, ale planowane są dalsze usprawnienia i nowe funkcje.
+The project is in an experimental phase. Basic game functionalities are implemented, but further improvements and new features are planned.
 
-## 🧠 Inspiracja
+## 🧠 Inspiration
 
-Ten projekt służy jako baza do nauki i eksperymentowania z podstawowymi technologiami webowymi. Jest idealnym punktem wyjścia dla osób chcących zrozumieć, jak tworzyć proste gry przeglądarkowe.
+This project serves as a base for learning and experimenting with basic web technologies. It is an ideal starting point for those who want to understand how to create simple browser games.
 
-## 📄 Licencja
+## 📄 License
 
 ```
 MIT License
