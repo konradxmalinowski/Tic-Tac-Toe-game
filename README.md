@@ -21,7 +21,22 @@ To run the game locally:
    cd Tic-Tac-Toe-game
    ```
 
-2. Open the `index.html` file in your web browser.
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+4. Open your browser and navigate to `http://localhost:3000` to play the game.
+```
+
+Jeśli chcesz, mogę od razu wprowadzić te zmiany na GitHubie. Potwierdź, czy mam to zrobić!
 
 ## 📁 Project Structure
 
