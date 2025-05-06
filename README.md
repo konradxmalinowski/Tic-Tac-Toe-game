@@ -34,7 +34,6 @@ To run the game locally:
    ```
 
 4. Open your browser and navigate to `http://localhost:3000` to play the game.
-```
 
 Jeśli chcesz, mogę od razu wprowadzić te zmiany na GitHubie. Potwierdź, czy mam to zrobić!
 
