@@ -1,10 +1,11 @@
+
 # ❌ Tic-Tac-Toe Game
 
-A simple implementation of the Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The game allows two players to compete on a single device.
+A simple implementation of the Tic-Tac-Toe game created using React, Vite, HTML, CSS, and JavaScript. The game allows two players to compete on a single device.
 
 ## 🎮 Features
 
-- User interface based on HTML and CSS  
+- User interface built with React  
 - Game logic implemented in JavaScript  
 - Two-player support  
 - Detection of a winner or a tie  
@@ -27,15 +28,13 @@ To run the game locally:
    npm install
    ```
 
-3. Start the development server:
+3. Start the development server using Vite:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000` to play the game.
-
-Jeśli chcesz, mogę od razu wprowadzić te zmiany na GitHubie. Potwierdź, czy mam to zrobić!
+4. Open your browser and navigate to the URL provided by Vite (usually `http://localhost:5173`) to play the game.
 
 ## 📁 Project Structure
 
@@ -43,7 +42,7 @@ Jeśli chcesz, mogę od razu wprowadzić te zmiany na GitHubie. Potwierdź, czy 
 Tic-Tac-Toe-game/
 ├── public/             # Static assets
 ├── src/                # Main application sources
-│   └── ...             # Scripts and styles
+│   └── ...             # React components and styles
 ├── index.html          # Main HTML file
 ├── package.json        # Dependencies and scripts
 ├── vite.config.js      # Vite configuration
@@ -56,7 +55,7 @@ The project is in an experimental phase. Basic game functionalities are implemen
 
 ## 🧠 Inspiration
 
-This project serves as a base for learning and experimenting with basic web technologies. It is an ideal starting point for those who want to understand how to create simple browser games.
+This project serves as a base for learning and experimenting with React and basic web technologies. It is an ideal starting point for those who want to understand how to create simple browser games.
 
 ## 📄 License
 
