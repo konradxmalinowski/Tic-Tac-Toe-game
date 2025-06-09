@@ -3,13 +3,17 @@
 
 A simple implementation of the Tic-Tac-Toe game created using React, Vite, HTML, CSS, and JavaScript. The game allows two players to compete on a single device.
 
+<br>
+
 ## Features
 
 - User interface built with React  
 - Game logic implemented in JavaScript  
 - Two-player support  
 - Detection of a winner or a tie  
-- Ability to reset the game  
+- Ability to reset the game
+
+<br>
 
 ## Getting Started
 
@@ -36,6 +40,8 @@ To run the game locally:
 
 4. Open your browser and navigate to the URL provided by Vite (usually `http://localhost:5173`) to play the game.
 
+<br>
+
 ## Project Structure
 
 ```
@@ -49,3 +55,15 @@ Tic-Tac-Toe-game/
 └── README.md           # Project documentation
 ```
 
+<br>
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/bff69ccb-5492-4eb5-a270-8c63e36a83f4)
+
+
+<br>
+
+## Contact
+
+For any inquiries or feedback: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
