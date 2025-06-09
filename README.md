@@ -1,5 +1,5 @@
 
-# ❌ Tic-Tac-Toe Game
+## Tic-Tac-Toe Game
 
 A simple implementation of the Tic-Tac-Toe game created using React, Vite, HTML, CSS, and JavaScript. The game allows two players to compete on a single device.
 
